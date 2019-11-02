@@ -101,6 +101,10 @@ The library includes several packages which implement some basic database operat
 * Korzh.DbUtils.MySQL
 
   Implements DB manipulation interfaces for MySQL connections.
+  
+* Korzh.DbUtils.PostgreSql
+  
+  Implements DB manipulation interfaces for PostgreSql connections.
 
 Here you can find the [full API reference of the library](https://korzh.aistant.com/db-utils/api-reference).
 
